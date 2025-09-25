@@ -1,3 +1,4 @@
+# Description :
 Our platform is designed to bridge the gap between innovation, investment, and real-world impact.
 It’s more than just a space for graduation and competition projects — it’s a complete ecosystem where ideas evolve into impactful startups, solutions, and initiatives.
 
@@ -14,6 +15,9 @@ Support impactful initiatives: Non-profit initiatives or social projects address
 All communications and agreements happen securely within the platform, and we take a small commission from every successful deal.
 
 This isn’t just a platform — it’s where academic projects become startups, ideas become solutions, and initiatives become impactful change.
+
+
+................................................................................
 
 
 # 🎨 Project Process (UI/UX Design)
@@ -90,3 +94,15 @@ This isn’t just a platform — it’s where academic projects become startups,
 - Idea Owner Interface: Simple, clear, and motivating for showcasing ideas.  
 - Investor Interface: Professional, structured, and optimized for decision-making.  
 - Result: A complete platform that bridges innovation and capital, turning ideas into reality.
+
+
+................................................................................
+
+
+# Team Members :
+
+1- Youssef Makhlouf : UI & UX Designer
+3- Mohamad Alaa : UI & UX Designer 
+2- Mohamad Fares : UI & UX Designer 
+4- Shaza : UI & UX Designer 
+5- Mohamad Saeed : UI & UX Designer 

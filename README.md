@@ -102,7 +102,11 @@ This isn’t just a platform — it’s where academic projects become startups,
 # Team Members :
 
 1- Youssef Makhlouf : UI & UX Designer
-3- Mohamad Alaa : UI & UX Designer 
-2- Mohamad Fares : UI & UX Designer 
+
+2- Mohamad Alaa : UI & UX Designer 
+
+3- Mohamad Fares : UI & UX Designer 
+
 4- Shaza : UI & UX Designer 
+
 5- Mohamad Saeed : UI & UX Designer 

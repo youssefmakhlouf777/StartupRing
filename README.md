@@ -15,6 +15,10 @@ Support impactful initiatives: Non-profit initiatives or social projects address
 All communications and agreements happen securely within the platform, and we take a small commission from every successful deal.
 
 This isn’t just a platform — it’s where academic projects become startups, ideas become solutions, and initiatives become impactful change.
+.............................................................................
+
+The Link of the Project
+https://www.figma.com/design/GN1eZchzrG5VVh9tKpbANz/Startup-Ring?node-id=0-1&t=rkVZNNoePYrTTWu9-1
 
 
 ................................................................................
